@@ -32,8 +32,8 @@
   },
   "devDependencies": {
     "coveralls": "2.11.4",
-    "firebase": "3.x.x",
-    "gulp": "3.9.0",
+    "firebase": "^3.9.0",
+    "gulp": "^3.9.0",
     "gulp-concat": "2.6.0",
     "gulp-ext-replace": "0.2.0",
     "gulp-jshint": "1.11.2",
